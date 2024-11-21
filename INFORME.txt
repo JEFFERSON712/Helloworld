@@ -1,0 +1,17 @@
+INFORME DE PROYECTO “HOLA MUNDO”
+1. Iniciamos creando un repositorio en https://github.com, le damos un nombre al repositorio en este ejemplo “Helloworld”
+
+2. Seleccionamos el proyecto “Publico” y damos en crear repositorio 
+
+
+3. Desde la terminal del equipo donde esta el proyecto que queremos subir a github.
+4. Abre la terminal en la carpeta donde se alojan los ficheros fuente y escribe el siguiente código para iniciar git en dicha carpeta Iniciamos con el comando: git init 
+
+5. Se habrá creado la carpeta. git con la información del proyecto Lo siguiente es introducir el comando: git add .
+
+6. Usamos el comando: git status
+
+7.  Prepara los ficheros que quieres subir con una pequeña explicación acerca de los cambios:  git commit  m- “Practico”
+
+8. Seleccionamos la ruta del repositorio git remote add origin URLrepositorio: https://github.com/JEFFERSON712/Helloworld
+9. Sube los cambios con el siguiente comando: git push origin master 
